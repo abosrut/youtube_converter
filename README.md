@@ -1,0 +1,1 @@
+Hi! You need to download and install ffmpeg. After installation, move ffmpeg.exe to the root folder. Good luck!
